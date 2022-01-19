@@ -1,6 +1,5 @@
 p {
-	color: blue;
-}
-b {
-	color: red;
+	text-indent: 50px;
+	text-align: justify;
+	width: 400px;
 }
